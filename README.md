@@ -6,7 +6,7 @@ Server to run real estate project.
 
 #### Real Estate Client 🏘️
 
-- [GIT repository of client](https://github.com/senior-dev1019/RealEstateReact#real-estate-react-client-%EF%B8%8F)
+- [GIT repository of client](https://github.com/senior-dev1019/RealEstateReact#RealEstateReact-%EF%B8%8F)
 
 # 🤖 Used Technologies
 
