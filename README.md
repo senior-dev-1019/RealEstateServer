@@ -23,7 +23,7 @@ Server to run real estate project.
 
 ## Installation & Setup Guide
 
-- git clone git@github.com:senior-dev1019/RealEstateReact.git
+- git clone git@github.com:senior-dev-1019/RealEstateReact.git
 - PostgreSQL DB should be launched.
   e.g. run it in docker container
   Change configuration in /db.js - file
